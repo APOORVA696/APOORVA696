@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @APOORVA696
-- 👀 I’m interested in DATA SCIENCE
-- 🌱 I’m currently working in TECH MAHINDRA AS SYSTEM ENGINEER
-- 💞️ I’m looking to collaborate on PROJECTS ON DATA SCIENCE
+- 👀 I have keen interests in Data Science, Linear ALgebra, Probability and Statistics.
+- 🌱 I’m currently working in TECH MAHINDRA AS SYSTEM ENGINEER in the area of AI/ML. Driving many Research based projects leveraging the use of Data Science.
+- 💞️ I’m looking to connect with Data Scientists.
 - 📫 How to reach me apoorvachoudhary696@gmail.com
 
 <!---
