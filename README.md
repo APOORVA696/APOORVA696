@@ -3,7 +3,7 @@
 - 🌱 I’m currently working in TECH MAHINDRA AS SYSTEM ENGINEER in the area of AI/ML. Driving many Research based projects leveraging the use of Data Science.
 - 💞️ I’m looking to connect with Data Scientists.
 - 📫 How to reach me apoorvac006@gmail.com
-- Looking forward to collaborate with experts on NLP and Computer Vision Projects.
+- Looking forward to collaborate with experts on Machine Learning Projects.
 
 <!---
 APOORVA696/APOORVA696 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
